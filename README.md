@@ -1,2 +1,4 @@
-# BUPT-Experiment-4-of-Analog-Electronics
-北邮模电实验4-运放音频放大电路设计及测试_2025
+# BUPT-Experiment-6-of-Analog-Electronics
+北邮模电实验6-由运放器构成的音频放大电路设计、仿真、测试_2025
+# 实验目的：
+学习掌握运算放大电路结构的设计、依据需求计算确定元器件参数值的方法，分析器件参数对整体电路性能的影响。
